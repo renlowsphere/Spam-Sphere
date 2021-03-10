@@ -10,5 +10,5 @@ Features:<br>
 <b>Installation:</b>
 
 pkg install nodejs<br>
-
+cd Spam-Sphere<br>
 node sphere.js
