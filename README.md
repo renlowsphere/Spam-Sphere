@@ -11,6 +11,7 @@ Features:<br>
 
 pkg install nodejs<br>
 pkg install git <br>
+pkg install nodejs-lts <br>
 git clone https://github.com/renlowsphere/Spam-Sphere <br>
 cd Spam-Sphere<br>
 node sphere.js
